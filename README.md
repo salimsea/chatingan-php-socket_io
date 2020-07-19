@@ -1,4 +1,7 @@
 # 💬 chatingan web (PHP + SOCKET.IO):
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=salimsea.chatingan-php-socket_io/) 
+
 screenshot ❤️❤️ <br /><br />
 <img src="https://i.ibb.co/FWKr9Vs/Capture.jpg" width="300px" /><br/>
 <img src="https://i.ibb.co/wgTWfcg/Capture.jpg" width="300px" />
